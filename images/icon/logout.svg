@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Log out</title>
+    <g id="主要" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的资产/nft" transform="translate(-1425.000000, -276.000000)">
+            <g id="编组-36" transform="translate(1395.000000, 64.000000)">
+                <g id="Log-out" transform="translate(30.000000, 212.000000)">
+                    <rect id="矩形" fill="#FFFFFF" opacity="0" x="0" y="0" width="30" height="30"></rect>
+                    <path d="M28,15 C28,7.82029825 22.1797017,2 15,2 C7.82029825,2 2,7.82029825 2,15 L28,15 Z" id="椭圆形" fill="#FFFFFF"></path>
+                    <path d="M2,15 C2,22.1797017 7.82029825,28 15,28 C22.1797017,28 28,22.1797017 28,15 L2,15 Z" id="椭圆形备份-4" fill="#D0D0D0"></path>
+                    <circle id="椭圆形" fill="#000000" cx="15" cy="15" r="6"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

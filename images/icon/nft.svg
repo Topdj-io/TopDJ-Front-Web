@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>NFTs</title>
+    <g id="主要" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的资产/nft" transform="translate(-1425.000000, -152.000000)">
+            <g id="NFTs" transform="translate(1425.000000, 152.000000)">
+                <rect id="矩形" fill="#FFFFFF" opacity="0" x="0" y="0" width="30" height="30"></rect>
+                <g id="编组-35" transform="translate(1.000000, 1.000000)">
+                    <polygon id="多边形" fill="#FFFFFF" points="14 0 26.1243557 7 26.1243557 21 14 28 1.87564435 21 1.87564435 7"></polygon>
+                    <polygon id="多边形备份" fill="#E7E7E7" points="7.93782217 17.5 14 28 1.87564435 21 1.87564435 7"></polygon>
+                    <polygon id="多边形备份-2" fill="#D0D0D0" points="20.0621778 17.5 26.1243557 7 26.1243557 21 14 28"></polygon>
+                    <g id="N" transform="translate(8.023131, 7.585455)" fill="#000000" fill-rule="nonzero">
+                        <polygon id="路径" points="12.0555556 0 9.82828283 12.7272727 6.62878788 12.7272727 4.40151515 5.76262626 3.19949495 12.7272727 0 12.7272727 2.24494949 0 5.53282828 0 7.72474747 6.50505051 8.87373737 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
