@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>后退</title>
+    <g id="主要" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="membership-card/更新0422领取状态2" transform="translate(-1469.000000, -684.000000)">
+            <g id="编组-33" transform="translate(1460.000000, 608.000000)">
+                <g id="后退" transform="translate(9.000000, 76.000000)">
+                    <rect id="矩形" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="31" height="31"></rect>
+                    <g id="编组-3" transform="translate(6.588235, 7.418494)" fill="#888888">
+                        <polygon id="矩形" transform="translate(4.860918, 4.860918) rotate(-315.000000) translate(-4.860918, -4.860918) " points="3.85392103 -0.849599486 6.00000901 -0.874367125 5.86791494 10.5714354 3.72182695 10.5962031"></polygon>
+                        <polygon id="矩形" transform="translate(4.860918, 11.360918) rotate(-315.000000) translate(-4.860918, -11.360918) " points="-0.849599486 10.353921 10.5962031 10.221827 10.5714354 12.3679149 -0.874367125 12.500009"></polygon>
+                        <rect id="矩形备份" x="2.39786091" y="6.69670442" width="17.366845" height="2.12132034"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
